@@ -1,3 +1,3 @@
 # course-sense-stub
 
-I am removing course sense. At it's endpoint, i'm going to serve this app. It will tell users course sense is no longer active.
+Course Sense is no more. From now on, at it's [endpoint](https://course-sense-go-gwksazschq-ue.a.run.app) I'll serve this app. It alerts users course sense is no longer active.
